@@ -11,7 +11,7 @@ st.set_page_config(page_title="Analytics", page_icon="🌎", layout="wide")
 theme_plotly = None 
 
 #sidebar logo
-st.sidebar.image("ٍSlide1.png")
+st.sidebar.image("logo2.png")
 
 #title
 st.title("⏱ ONLINE ANALYTICS  DASHBOARD")
